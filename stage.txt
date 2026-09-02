@@ -1,0 +1,134 @@
+{
+  "학교": {
+    "maps": ["맵16"],
+    "bgm": ["Odesong"]
+  },
+  "숲": {
+    "maps": ["맵1"],
+    "bgm": ["Library of Ruina - Tiphereth Battle Theme 1"]
+  },
+  "쿼즈 홀": {
+    "maps": ["맵4"],
+    "bgm": ["Battle Garegga Rev 2016 - Degeneracy"]
+  },
+  "극지 협곡": {
+    "maps": ["맵5"],
+    "bgm": ["FNF - Hotline 024 - Uncanny Valley Instrumental"]
+  },
+  "허무의 공간": {
+    "maps": ["맵10"],
+    "bgm": ["Limbus Company - We'd Lost Our Winter","Limbus Company - Canto III Battle Theme B1"]
+  },
+  "니만 철길": {
+    "maps": ["맵14"],
+    "bgm": ["DNF - East Ghent Gate","DNF - East Ghent Gate Boss"]
+  },
+  "도심": {
+    "maps": ["맵6","맵15"],
+    "bgm": ["DNF - Puppet Museum","SANABI - Swimming In A Sea Of Neon Lights Part 2"]
+  },
+  "신영테크": {
+    "maps": ["맵9","맵17"],
+    "bgm": ["Limbus Company - Canto IV Battle Theme A1","Limbus Company - Canto IV Battle Theme B1","Limbus Company - Canto IV Battle Theme C1"]
+  },
+  "파라벨룸": {
+    "maps": ["맵11"],
+    "bgm": ["DNF - Subway of the Bleed Boss"]
+  },
+  "뢰메르 결혼식장": {
+    "maps": ["맵32","맵33","맵34"],
+    "bgm": ["DNF - Confident Ludis Self-Scorning Sereina","DNF - Ego","DNF - Venus, Goddess of Desire and Beauty"]
+  },
+  "감사원장실": {
+    "maps": ["맵35"],
+    "bgm": ["Credits song for my death (Bossfight Remix)"]
+  },
+  "AIDB": {
+    "maps": ["맵37","맵38","맵39"],
+    "bgm": ["Lastraveler - Lastraveler Enlightenment","FallenEra (2022 Remake)","The-masses-travels-mix-arknights-bgm-riverv-workshop","Ucchii0 - No Hope (123 edit)"]
+  },
+  "격납고": {
+    "maps": ["맵2"],
+    "bgm": ["Front Mission 5 - Lock and Load II"]
+  },
+  "적색구역": {
+    "maps": ["맵7"],
+    "bgm": ["Limbus Company - Canto V Battle Theme F1","Limbus Company - Canto V Battle Theme F2"]
+  },
+  "대교": {
+    "maps": ["맵8"],
+    "bgm": ["Kirby Triple Deluxe - Moonstruck Blossom"]
+  },
+  "빛의 성전": {
+    "maps": ["맵13"],
+    "bgm": ["DNF - House of Mu","DNF - Woomu's Shell","DNF - The Depths of Dusky Island","MP - World Horizon - Phase 3"]
+  },
+  "오버랜드": {
+    "maps": ["맵12"],
+    "bgm": ["Limbus Company - Canto IV Battle Theme A2"]
+  },
+  "항공모함": {
+    "maps": ["맵3"],
+    "bgm": ["DoDonPachi Saidaioujou Arrange Album - Taiji (Boss)"]
+  },
+  "최종보스 서식지": {
+    "maps": ["맵18"],
+    "bgm": ["Limbus Company - Canto VI Boss 1 Battle Theme","Limbus Company - Canto VI Battle Theme D"]
+  },
+  "게이트": {
+    "maps": ["맵19"],
+    "bgm": ["DNF - Gate of the Ominous Moon","DNF - Serene Rosalind","DNF - Serene Rosalind x Ominous Savelli","DNF - Unfortunate Fors"]
+  },
+  "자연사 박물관": {
+    "maps": ["맵20"],
+    "bgm": ["UK - Sanctuary in the Garden of the Mind","F-777 - Airborne Robots"]
+  },
+  "적벽": {
+    "maps": ["맵21"],
+    "bgm": ["Library of Ruina - Iron Lotus"]
+  },
+  "고대의 유적": {
+    "maps": ["맵22"],
+    "bgm": ["JoJo's Bizarre Adventure Eyes of Heaven - Muhammad Avdol Battle"]
+  },
+  "언어의 층": {
+    "maps": ["맵23"],
+    "bgm": ["Library of Ruina - Gebura Battle 1","Library of Ruina - The Red Mist Theme"]
+  },
+  "워더링 하이츠": {
+    "maps": ["맵24"],
+    "bgm": ["Limbus Company - Canto VI Boss 5 Battle Theme"]
+  },
+  "공장 심층부": {
+    "maps": ["맵25"],
+    "bgm": ["PABLO - he s not dead, yet","PABLO - INSANITY"]
+  },
+  "힘멜위거": {
+    "maps": ["맵26"],
+    "bgm": ["BLUE REFLECTION - OSTWPNEURONS","BLUE REFLECTION - DNF FW15C ZERO"]
+  },
+  "다운폴": {
+    "maps": ["맵27"],
+    "bgm": ["DNF - Mist God's Subconsciousness","BLUE REFLECTION - Sayonara Takami Musubi","BLUE REFLECTION - Sayonara Minaka Nushi"]
+  },
+  "세계의 끝": {
+    "maps": ["맵28"],
+    "bgm": ["Slave Knight Gael","Elden RingOST- Starscourge Radahn","Witch of the Faded Flame - BGM"]
+  },
+  "나락": {
+    "maps": ["맵31"],
+    "bgm": ["Mili - SAIKAI"]
+  },
+  "전설의 인삼밭": {
+    "maps": ["맵29"],
+    "bgm": ["Dr","TV 동물농장 (Main Title)"]
+  },
+  "관점 변동": {
+    "maps": ["맵30"],
+    "bgm": ["토레스","토레스2"]
+  },
+  "버려질 세계": {
+    "maps": ["맵36"],
+    "bgm": ["트릭컬 피어오르는 업화 로비 브금","트릭컬 리바이브 엘리아스 프론티어 BGM E0 - UROS & NIRVANA 매쉬업"]
+  }
+}
