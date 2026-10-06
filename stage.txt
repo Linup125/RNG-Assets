@@ -131,12 +131,8 @@
     "maps": ["맵36"],
     "bgm": ["트릭컬 피어오르는 업화 로비 브금","트릭컬 리바이브 엘리아스 프론티어 BGM E0 - UROS & NIRVANA 매쉬업"]
   },
-  "이야기의 저편": {
-    "maps": ["맵40"],
-    "bgm": ["Jǫklumarkar Boss Battle Theme 03","Silhouette of Catastrophe","Best Theme 03 Dotore Battle 1"]
-  },
-  "테라 울티마": {
-    "maps": ["맵41"],
-    "bgm": ["[DNF] 바칼 베이스 캠프","[DNF] 바칼 전투 대기","[DNF] 심연에 잠식된 성전"]
+  "DELERE": {
+    "maps": ["맵42"],
+    "bgm": ["Analog Funkin - Deadlines 1","Analog Funkin - Deadlines 2","Analog Funkin - Deadlines 3","Analog Funkin - Deadlines scene 3"]
   }
 }
