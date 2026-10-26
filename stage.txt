@@ -138,5 +138,13 @@
   "이야기의 저편": {
     "maps": ["맵40"],
     "bgm": ["Jǫklumarkar Boss Battle Theme 03","Adam Smasher","Silhouette of Catastrophe"]
+  },
+  "이야기의 저편-상": {
+    "maps": ["맵40"],
+    "bgm": ["Jǫklumarkar Boss Battle Theme 03"]
+  },
+  "이야기의 저편-하": {
+    "maps": ["맵40"],
+    "bgm": ["Adam Smasher","Silhouette of Catastrophe"]
   }
 }
