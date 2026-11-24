@@ -150,5 +150,9 @@
   "DELERE": {
     "maps": ["맵42"],
     "bgm": ["Analog Funkin - Deadlines 1","Analog Funkin - Deadlines 2","Analog Funkin - Deadlines 3","Analog Funkin - Deadlines scene 3"]
+  },
+  "세상": {
+    "maps": ["맵43"],
+    "bgm": ["Chapter 5 Boss (Beatspell)","Final Chapter Showdown (Beatspell)","Final Chapter Finale (Beatspell)"]
   }
 }
